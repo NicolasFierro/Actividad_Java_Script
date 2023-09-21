@@ -1,0 +1,16 @@
+body {background-color: #A10707;} /* Fondo azul celeste */
+
+h1 {text-align: center; /* Centra el título */
+    color: #CAC79D;} /* Color café */
+
+button{      
+    background-color: #CAC79D; /* Color de fondo verde */
+    color: #A10707; /* Color del texto blanco */
+    padding: 10px 20px; /* Relleno interior (arriba/abajo, izquierda/derecha) */
+    border: none; /* Sin borde */
+    border-radius: 5px; /* Bordes redondeados */
+    cursor: pointer; /* Cambia el cursor al pasar sobre el botón */
+    display: block; /* Para centrar el botón */
+    margin: 0 auto; /* Para centrar el botón */
+    font-size: 18px;} /* Tamaño del texto */
+    
